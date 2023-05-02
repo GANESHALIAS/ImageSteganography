@@ -39,7 +39,7 @@ def decr():
 window = Tk()
 
 window.title("Image Stagenography")
-window.geometry('450x300')
+window.geometry('450x310')
 
 option = IntVar()
 
